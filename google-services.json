@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100228415079",
+    "project_id": "honey-b6158",
+    "storage_bucket": "honey-b6158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100228415079:android:cb56b530e0063f537f1ec2",
+        "android_client_info": {
+          "package_name": "com.honey97.etsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100228415079-pftnie95464lj5ouk316q68m1521b8jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaEWzPDRiZPZGomZ2plD2RTZIQNBJJpj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100228415079-pftnie95464lj5ouk316q68m1521b8jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
